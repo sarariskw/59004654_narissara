@@ -36,12 +36,22 @@
 if you send "off",LED will turn off.
 
 9.For Node-red "server.json" file you must install node-red on your computer before. follow these step
-	-open CMD and input command >> for window >> npm install -g --unsafe-perm node-red  
-				    >> for ios    >> sudo npm install -g --unsafe-perm node-red
-	-so you can run node-red by this command  >> node-red
-	-you will get a link to connected to broker that you can open it in browser.
-	-when you open it on browser you can import json file from your computer.
-	-then deploy it.
-	-it will signal for you that it have connected with MQTT broker and serial port.
-	-you can open dashbroad.
+		-open CMD and input command 
+	
+		for window >> npm install -g --unsafe-perm node-red  
+		for ios    >> sudo npm install -g --unsafe-perm node-red
+		
+10.so you can run node-red by this command  
+	
+	>> node-red
+	
+11.you will get a link to connected to broker that you can open it in browser.
+
+12.when you open it on browser you can import json file from your computer.
+
+13.then deploy it.
+
+14.it will signal for you that it have connected with MQTT broker and serial port.
+
+15.you can open the dashbroad on node-red.
 
